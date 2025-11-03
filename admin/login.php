@@ -4,4 +4,4 @@
  * Login page for the admin interface.
  */
 
-echo "Admin Login Page";
+echo "Admin Login Page!";

@@ -12,7 +12,7 @@ require_once __DIR__ . '/../includes/MailSender.php';
  */
 function createEmailMessage(): string
 {
-    $message = "Hallo liebes Modified-Shop Team! 👋\n\n";
+    $message = "Hallo liebes modified-shop Team! 👋\n\n";
     $message .= "Ein mutiger Admin hat gerade auf einen mysteriösen Button geklickt...\n\n";
     $message .= "🤡 Witz des Tages:\n";
     $message .= "Letzter Wunsch des Programmierers:\n";

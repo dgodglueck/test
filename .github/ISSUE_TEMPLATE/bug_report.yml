@@ -1,5 +1,5 @@
 name: Bug Report
-description: Melde einen Fehler im modified Shop System
+description: Melde einen Fehler im modified-shop System
 labels: ["bug"]
 body:
   - type: markdown
@@ -10,8 +10,8 @@ body:
   - type: input
     id: version
     attributes:
-      label: modified Version
-      description: Welche modified-Version verwendest du? (z. B. 3.1.0)
+      label: modified-shop Version
+      description: Welche modified-shop Version verwendest du? (z. B. 3.1.0)
       placeholder: "3.1.x"
     validations:
       required: true

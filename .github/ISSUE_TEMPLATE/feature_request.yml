@@ -14,7 +14,7 @@ body:
     id: solution
     attributes:
       label: Vorgeschlagene Lösung
-      description: Wie soll modified sich verhalten?
+      description: Wie soll modified-shop sich verhalten?
     validations:
       required: true
 

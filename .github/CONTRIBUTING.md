@@ -1,6 +1,6 @@
-# Contributing zum modified Shop System
+# Contributing zum modified-shop System
 
-Vielen Dank, dass du zu modified beitragen möchtest. Dieses Dokument soll dir helfen, dich im Projekt zurechtzufinden.
+Vielen Dank, dass du zu modified-shop beitragen möchtest. Dieses Dokument soll dir helfen, dich im Projekt zurechtzufinden.
 
 ## 1. Kommunikation & Verhalten
 

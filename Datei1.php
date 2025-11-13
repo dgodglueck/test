@@ -1,2 +1,4 @@
-feature1
-feature2
+<?php
+
+// feature1
+// feature2

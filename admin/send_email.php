@@ -2,6 +2,8 @@
 
 declare(strict_types=1);
 
+use App\Service\MailSender;
+
 // MailSender-Klasse einbinden
 require_once __DIR__ . '/../includes/MailSender.php';
 
@@ -20,7 +22,7 @@ function createEmailMessage(): string
     $message .= "Mit freundlichen Grüßen,\n";
     $message .= "Ihr automatisiertes E-Mail-System\n\n";
     $message .= "P.S.: Diese E-Mail wurde am " . date('d.m.Y \u\m H:i:s') . " Uhr versendet.\n";
-    
+
     return $message;
 }
 

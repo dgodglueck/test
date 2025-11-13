@@ -2,6 +2,8 @@
 
 declare(strict_types=1);
 
+namespace App\Service;
+
 /**
  * MailSender Klasse
  * Verantwortlich für das Versenden von E-Mails
